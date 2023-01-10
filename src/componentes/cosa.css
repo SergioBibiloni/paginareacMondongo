@@ -1,0 +1,16 @@
+
+.imagenmondongo{
+    justify-content: center;
+    display: flex;  
+}
+
+
+.bloquedescripcion{
+ width: 1500px;
+justify-content: center;
+
+}
+
+.boton{
+    text-align: center;
+}
